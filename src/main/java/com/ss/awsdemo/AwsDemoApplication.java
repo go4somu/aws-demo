@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication()
 public class AwsDemoApplication{
 //public class AwsDemoApplication implements CommandLineRunner {
-
 	
 	//@Autowired
 	//private StudentRepository studentRepository;
